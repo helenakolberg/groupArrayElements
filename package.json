@@ -1,0 +1,19 @@
+{
+  "name": "grouparrayelements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "groupArrayElements.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "babel": {
+    "presets": ["@babel/preset-env"]
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
